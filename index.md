@@ -1,7 +1,8 @@
 ### Dictionary Game
 
 ## Current Word
-<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-MPyjnWKdEUuwAMOR0lu/view"></iframe>
+{% include entries_table.html %}
+
 
 ### Submit Word
 
@@ -9,4 +10,4 @@
 
 
 ### Scores
-<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-MPym2aOOa0WbdeE3uM_/view"></iframe>
+{% include scores_table.html %}
