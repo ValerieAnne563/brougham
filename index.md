@@ -1,5 +1,3 @@
-### Dictionary Game
-
 ## Current Word
 {% include entries_table.html %}
 
