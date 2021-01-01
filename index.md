@@ -1,4 +1,4 @@
-## Current Word
+## The Current Word Is:
 {% include entries_table.html %}
 
 
