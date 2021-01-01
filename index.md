@@ -1,3 +1,5 @@
+## Current Word
+<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="https://view-awesome-table.com/-MPyjnWKdEUuwAMOR0lu/view"></iframe>
 
 ### Scores
 
